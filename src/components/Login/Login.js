@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { getAuth } from "firebase/auth";
 import { async } from "@firebase/util";
-import Exercises from "../Exercises";
+import Exercises from "../Individualexe/Exercises";
 
 import InputControl from "../InputControl/InputControl";
 import { auth } from "../../firebase";

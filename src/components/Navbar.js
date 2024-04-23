@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Stack } from '@mui/material';
 import Login from './Login/Login'
-import Exercises from './Exercises';
+import Exercises from './Individualexe/Exercises';
 
 import Logo from '../assets/images/Logo.png';
 
